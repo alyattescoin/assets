@@ -4,7 +4,7 @@
     "description": "PAXF is a BEP-20 token. Its intended use is for shopping with cryptocurrencies.",
     "explorer": "https://bscscan.com/token/0x8c6c42dde99bee2e65a43744d6b8b0a177fc7116",
     "type": "BEP20",
-    "symbol": "ZEFI",
+    "symbol": "PAFX",
     "decimals": 6,
     "status": "active",
     "id": "0x8C6C42DDe99BEe2e65A43744d6b8b0A177FC7116"
